@@ -11,7 +11,7 @@ module.exports = (_, argv) => ({
   output: {
     publicPath: argv.mode === "development" 
     ? "http://localhost:3004/" 
-    :"https://grand-peony-c00760.netlify.app/",
+    :"https://glittering-crisp-6f1b26.netlify.app/",
   },
 
   resolve: {
